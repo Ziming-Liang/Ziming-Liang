@@ -1,6 +1,4 @@
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Alex+Liang;Software+Engineer;Data+Scientist;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ziming+Liang;MS+student+%40+Northeastern;Software+engineer;Full+Stack+Developer;Data+Engineer)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:liang.zim@northeastern.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -16,7 +14,7 @@
 * 📧 You can contact me at **liang.zim@northeastern.edu**
 * 🎓 I'm pursuing my Master's in Software Engineering Systems at Northeastern University
 * 💼 I have internship experience in data analytics at Apexus-Tech (NYC) and China Academy of Safety Science
-* 🎯 **Looking for internship / fulltime job**
+* 🎯 **Looking for internship / full-time job opportunities**
 
 ## 🛠️ Tech Stack
 
@@ -46,10 +44,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ziming-Liang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziming-Liang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ziming-Liang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziming-Liang&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🚀 Featured Projects
 
@@ -85,16 +81,13 @@ China University of Geosciences Beijing · Sept 2021 - June 2025
 
 ---
 
-<div align="center">
-
 ## 📫 Connect with Me
 
-**💼 Open to Software Engineering Co-op Opportunities!**
+**Looking for internship / full-time job opportunities**
 
 *Interested in: Backend Development | Distributed Systems | Data Engineering | Machine Learning*
 
-[![Email](https://img.shields.io/badge/-liang.qia@northeastern.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liang.qia@northeastern.edu)
+[![Email](https://img.shields.io/badge/-liang.zim@northeastern.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liang.zim@northeastern.edu)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liang-zim/)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ziming-Liang&color=blue&style=flat-square)
-
-</div>

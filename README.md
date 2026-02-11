@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 * 📍 I'm based in Boston, MA
 * 📧 You can contact me at **liang.zim@northeastern.edu**
@@ -18,7 +18,7 @@
 * 💼 I have internship experience in data analytics at Apexus-Tech (NYC) and China Academy of Safety Science
 * 🎯 **Looking for internship / full-time job opportunities**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p align="left">
@@ -62,12 +62,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ziming-Liang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziming-Liang&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 * **Stock Trading System** - Comprehensive Java trading system with RESTful APIs and design patterns
 * **Flight Delay Prediction** - Big data pipeline using Apache Spark and Scala with 85%+ accuracy
@@ -76,32 +77,38 @@
 * **NYC Crime Analysis** - Comprehensive data visualization and statistical analysis with R
 * **ERP System** - Database design with MySQL for financial and supply chain management
 
-## 💼 Experience
+## Experience
 
-**Data Analyst Intern** | Apexus-Tech · Remote  
-_Sep 2024 - Oct 2024 · New York, NY_
+### Data Analyst Intern
+**Apexus-Tech · Remote**  
+Sep 2024 - Oct 2024 · New York, NY
+
 * Developed Python-based pipeline for trade data processing and analysis
 * Integrated statistical models for performance metrics calculation
 
-**Data Analytics Intern** | China Academy of Safety Science and Technology · On-site  
-_Jul 2024 - Aug 2024 · Beijing, China_
+### Data Analytics Intern
+**China Academy of Safety Science and Technology · On-site**  
+Jul 2024 - Aug 2024 · Beijing, China
+
 * Built deep learning models with TensorFlow achieving 95%+ accuracy
 * Created data visualization dashboards with R and Python
 * Developed SVM multi-classifier for accident severity analysis
 
-## 🎓 Education
+## Education
 
-**Master of Science in Software Engineering Systems**  
-Northeastern University, Boston · Expected May 2027
+### Master of Science in Software Engineering Systems
+**Northeastern University, Boston**  
+Expected May 2027
 
-**Bachelor of Science in Data Science and Big Data Technology**  
-China University of Geosciences Beijing · Sept 2021 - June 2025
+### Bachelor of Science in Data Science and Big Data Technology
+**China University of Geosciences Beijing**  
+Sept 2021 - June 2025
 
 **Core Competencies:** Data Structure & Algorithm, Machine Learning, Big Data Processing, Database Design, OOP Design Patterns
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 **Looking for internship / full-time job opportunities**
 

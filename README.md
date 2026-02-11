@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ziming+Liang;MS+student+%40+Northeastern;Software+engineer;Full+Stack+Developer;Data+Engineer)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ziming+Liang;MS+student+%40+Northeastern;Software+Engineer;Full+Stack+Developer;Data+Engineer" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="mailto:liang.zim@northeastern.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

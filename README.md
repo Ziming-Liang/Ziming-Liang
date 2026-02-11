@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 * 📍 I'm based in Boston, MA
 * 📧 You can contact me at **liang.zim@northeastern.edu**
@@ -18,7 +18,7 @@
 * 💼 I have internship experience in data analytics at Apexus-Tech (NYC) and China Academy of Safety Science
 * 🎯 **Looking for internship / full-time job opportunities**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,7 +49,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ziming-Liang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziming-Liang&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 * **Stock Trading System** - Comprehensive Java trading system with RESTful APIs and design patterns
 * **Flight Delay Prediction** - Big data pipeline using Apache Spark and Scala with 85%+ accuracy
@@ -58,7 +58,7 @@
 * **NYC Crime Analysis** - Comprehensive data visualization and statistical analysis with R
 * **ERP System** - Database design with MySQL for financial and supply chain management
 
-## 💼 Experience
+## Experience
 
 **Data Analyst Intern** | Apexus-Tech · Remote  
 _Sep 2024 - Oct 2024 · New York, NY_
@@ -71,7 +71,7 @@ _Jul 2024 - Aug 2024 · Beijing, China_
 * Created data visualization dashboards with R and Python
 * Developed SVM multi-classifier for accident severity analysis
 
-## 🎓 Education
+## Education
 
 **Master of Science in Software Engineering Systems**  
 Northeastern University, Boston · Expected May 2027

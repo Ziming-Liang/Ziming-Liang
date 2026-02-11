@@ -1,36 +1,30 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Alex+Liang;Software+Engineer;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Alex+Liang;Software+Engineer;Data+Scientist;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 <h3 align="center">MS in Software Engineering Systems @ Northeastern University</h3>
-<p align="center">Backend Developer | Distributed Systems | Big Data Analytics</p>
+<p align="center">Full Stack Developer | Software Engineer |  Data Engineer</p>
 
 <p align="center">
   <a href="mailto:liang.qia@northeastern.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Ziming-Liang"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
-  <a href="mailto:liangziming0729@126.com"><img src="https://img.shields.io/badge/-Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🎓 About Me
-```yaml
-name: Alex Liang (梁子明)
-location: Boston, MA
-education: 
-  current: MS in Software Engineering Systems @ Northeastern University (Expected May 2027)
-  previous: BS in Data Science and Big Data Technology @ China University of Geosciences Beijing (2021-2025)
-experience:
-  - Data Analyst Intern @ Apexus-Tech (NYC, Remote)
-  - Data Analytics Intern @ China Academy of Safety Science and Technology
-currently_working_on: ["Web Development", "Distributed Systems", "Big Data Processing"]
-interests: ["Backend Development", "Machine Learning", "System Design", "Gaming (PUBG, VALORANT)"]
-looking_for: "Software Engineering Co-op Opportunities (Summer/Fall 2025)"
-```
+## 👨‍💻 About Me
 
-## 💻 Tech Stack
+* 📍 I'm based in Boston, MA
+* 📧 You can contact me at **liang.qia@northeastern.edu**
+* 🎓 I'm pursuing my Master's in Software Engineering Systems at Northeastern University
+* 💼 I have internship experience in data analytics at Apexus-Tech (NYC) and China Academy of Safety Science
+* 🔭 Currently working on web development and distributed systems projects
+* 🌱 I'm open to collaborating on backend development and big data processing projects
+* 🎯 **Looking for Software Engineering Co-op opportunities (Summer/Fall 2025)**
+
+## 🛠️ Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,15 +38,17 @@ looking_for: "Software Engineering Co-op Opportunities (Summer/Fall 2025)"
 ### Frameworks & Tools
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -61,96 +57,50 @@ looking_for: "Software Engineering Co-op Opportunities (Summer/Fall 2025)"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziming-Liang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziming-Liang&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ## 🚀 Featured Projects
 
-### 🎓 Academic Projects (Northeastern University)
+* **Stock Trading System** - Comprehensive Java trading system with RESTful APIs and design patterns
+* **Flight Delay Prediction** - Big data pipeline using Apache Spark and Scala with 85%+ accuracy
+* **Fitness Gym Landing Page** - Responsive web application with HTML/CSS/Bootstrap
+* **Accident Analysis System** - Deep learning models (CNNs, BiLSTMs, Transformers) with 95%+ accuracy
+* **NYC Crime Analysis** - Comprehensive data visualization and statistical analysis with R
+* **ERP System** - Database design with MySQL for financial and supply chain management
 
-#### 📈 Stock Trading System
-**Dec 2025 | Object-Oriented Design**
-- Developed comprehensive stock trading system in Java with trade execution and portfolio tracking
-- Integrated RESTful APIs for real-time market data
-- Applied SOLID principles and design patterns (Singleton, Factory)
-- **Tech:** Java, RESTful APIs, OOP Design Patterns
+## 💼 Experience
 
-#### ✈️ Flight Delay Prediction System
-**Nov 2025 | Big Data using Scala**
-- Built analytics pipeline using Apache Spark and Scala for flight data processing
-- Achieved 85%+ accuracy in delay prediction
-- Reduced processing time by 60% through distributed computing
-- **Tech:** Apache Spark, Scala, Machine Learning, Distributed Systems
+**Data Analyst Intern** | Apexus-Tech · Remote  
+_Sep 2024 - Oct 2024 · New York, NY_
+* Developed Python-based pipeline for trade data processing and analysis
+* Integrated statistical models for performance metrics calculation
 
-#### 🏋️ Fitness Gym Management System Landing Page
-**Fall 2025 | Web Application Development**
-- Developed responsive landing page with HTML/CSS/Bootstrap
-- Implemented form validation with JavaScript
-- Collaborated using Git workflows and branch-based development
-- **Tech:** HTML5, CSS3, JavaScript, Bootstrap, Git
+**Data Analytics Intern** | China Academy of Safety Science and Technology · On-site  
+_Jul 2024 - Aug 2024 · Beijing, China_
+* Built deep learning models with TensorFlow achieving 95%+ accuracy
+* Created data visualization dashboards with R and Python
+* Developed SVM multi-classifier for accident severity analysis
 
-### 💼 Professional Experience Projects
+## 🎓 Education
 
-#### 📊 Trade Data Processor
-**Apexus-Tech, NYC (Remote) | Sep-Oct 2024**
-- Built Python pipeline for cleaning historical trading data
-- Integrated statistical models for leverage and risk-adjusted returns analysis
-- **Tech:** Python, Data Processing, Statistical Modeling
+**Master of Science in Software Engineering Systems**  
+Northeastern University, Boston · Expected May 2027
 
-#### 🔍 Accident Data Analysis System
-**China Academy of Safety Science and Technology | Jul-Aug 2024**
-- Trained SVM multi-classifier for accident severity grading
-- Built deep learning models (CNNs, BiLSTMs, Transformers) with 95%+ accuracy
-- Created data visualization dashboards with R
-- **Tech:** Python, TensorFlow, R, MySQL, Deep Learning
+**Bachelor of Science in Data Science and Big Data Technology**  
+China University of Geosciences Beijing · Sept 2021 - June 2025
 
-### 🎯 Previous Academic Projects
-
-#### 🗽 New York Crime Analysis
-**Oct-Nov 2023 | Data Analysis and Visualization**
-- Analyzed NYC crime data using R Studio with spatial distribution mapping
-- Applied multivariate regression and clustering analysis
-- **Tech:** R, Data Visualization, Statistical Analysis
-
-#### 🛒 Consumer Behavior Prediction
-**Oct-Nov 2023 | Data Mining**
-- Implemented FP-growth algorithm for product association rules
-- Developed SVM model for consumer behavior prediction
-- Performed k-means clustering for user segmentation
-- **Tech:** Python, Machine Learning, Data Mining
-
-#### 💼 ERP System Database Design
-**May-June 2023 | Database Design (Team Leader)**
-- Developed comprehensive ERP system with MySQL
-- Automated employee management with Python
-- Achieved 15% projected increase in supply chain efficiency
-- **Tech:** MySQL, Python, Database Design
-
-## 🏆 Achievements
-
-- 🥉 **Third Prize** - College Students Innovation and Entrepreneurship Competition (2023)
-- 🥉 **Third Prize** - China National Undergraduate "Innovation, Creativity and Entrepreneurship" Challenge (2022)
-
-## 📈 Skills
-
-**Data Analysis:** A/B Testing, Regression, Classification, Clustering (K-means), PCA, Sensitivity Analysis
-
-**Specialties:** 
-- Backend Development & System Design
-- Big Data Processing (Apache Spark, Scala)
-- Machine Learning & Deep Learning (TensorFlow, scikit-learn)
-- Database Design & Optimization (MySQL, Oracle)
-- Data Analytics & Visualization (Python, R)
+**Core Competencies:** Data Structure & Algorithm, Machine Learning, Big Data Processing, Database Design, OOP Design Patterns
 
 ---
 
 <div align="center">
-  
-  **💡 Open to Software Engineering Co-op Opportunities!**
-  
-  *Interested in Backend Development, Distributed Systems, and Data Engineering*
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Ziming-Liang&color=blue&style=flat-square)
-  
+
+## 📫 Connect with Me
+
+**💼 Open to Software Engineering Co-op Opportunities!**
+
+*Interested in: Backend Development | Distributed Systems | Data Engineering | Machine Learning*
+
+[![Email](https://img.shields.io/badge/-liang.qia@northeastern.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liang.qia@northeastern.edu)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Ziming-Liang&color=blue&style=flat-square)
+
 </div>

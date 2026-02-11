@@ -17,12 +17,10 @@
 ## 👨‍💻 About Me
 
 * 📍 I'm based in Boston, MA
-* 📧 You can contact me at **liang.qia@northeastern.edu**
+* 📧 You can contact me at **liang.zim@northeastern.edu**
 * 🎓 I'm pursuing my Master's in Software Engineering Systems at Northeastern University
 * 💼 I have internship experience in data analytics at Apexus-Tech (NYC) and China Academy of Safety Science
-* 🔭 Currently working on web development and distributed systems projects
-* 🌱 I'm open to collaborating on backend development and big data processing projects
-* 🎯 **Looking for Software Engineering Co-op opportunities (Summer/Fall 2025)**
+* 🎯 **Looking for internship / fulltime job**
 
 ## 🛠️ Tech Stack
 

@@ -10,6 +10,7 @@
 
 ---
 
+
 ## About Me
 
 * 📍 I'm based in Boston, MA
@@ -17,6 +18,7 @@
 * 🎓 I'm pursuing my Master's in Software Engineering Systems at Northeastern University
 * 💼 I have internship experience in data analytics at Apexus-Tech (NYC) and China Academy of Safety Science
 * 🎯 **Looking for internship / full-time job opportunities**
+
 
 ## Tech Stack
 
@@ -44,6 +46,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+
 ## Featured Projects
 
 * **Stock Trading System** - Comprehensive Java trading system with RESTful APIs and design patterns
@@ -52,6 +55,7 @@
 * **Accident Analysis System** - Deep learning models (CNNs, BiLSTMs, Transformers) with 95%+ accuracy
 * **NYC Crime Analysis** - Comprehensive data visualization and statistical analysis with R
 * **ERP System** - Database design with MySQL for financial and supply chain management
+
 
 ## Experience
 
@@ -66,6 +70,7 @@ _Jul 2024 - Aug 2024 · Beijing, China_
 * Created data visualization dashboards with R and Python
 * Developed SVM multi-classifier for accident severity analysis
 
+
 ## Education
 
 **Master of Science in Software Engineering Systems**  
@@ -78,7 +83,8 @@ China University of Geosciences Beijing · Sept 2021 - June 2025
 
 ---
 
-## 📫 Connect with Me
+
+## Connect with Me
 
 **Looking for internship / full-time job opportunities**
 

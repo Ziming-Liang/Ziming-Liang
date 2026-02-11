@@ -10,8 +10,7 @@
 
 ---
 
-
-## About Me
+## 👨‍💻 About Me
 
 * 📍 I'm based in Boston, MA
 * 📧 You can contact me at **liang.zim@northeastern.edu**
@@ -19,35 +18,46 @@
 * 💼 I have internship experience in data analytics at Apexus-Tech (NYC) and China Academy of Safety Science
 * 🎯 **Looking for internship / full-time job opportunities**
 
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+</p>
 
 ### Frameworks & Tools
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+</p>
 
 ### Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
 
+## 📊 GitHub Stats
 
-## Featured Projects
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ziming-Liang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziming-Liang&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🚀 Featured Projects
 
 * **Stock Trading System** - Comprehensive Java trading system with RESTful APIs and design patterns
 * **Flight Delay Prediction** - Big data pipeline using Apache Spark and Scala with 85%+ accuracy
@@ -56,8 +66,7 @@
 * **NYC Crime Analysis** - Comprehensive data visualization and statistical analysis with R
 * **ERP System** - Database design with MySQL for financial and supply chain management
 
-
-## Experience
+## 💼 Experience
 
 **Data Analyst Intern** | Apexus-Tech · Remote  
 _Sep 2024 - Oct 2024 · New York, NY_
@@ -70,8 +79,7 @@ _Jul 2024 - Aug 2024 · Beijing, China_
 * Created data visualization dashboards with R and Python
 * Developed SVM multi-classifier for accident severity analysis
 
-
-## Education
+## 🎓 Education
 
 **Master of Science in Software Engineering Systems**  
 Northeastern University, Boston · Expected May 2027
@@ -83,8 +91,7 @@ China University of Geosciences Beijing · Sept 2021 - June 2025
 
 ---
 
-
-## Connect with Me
+## 📫 Connect with Me
 
 **Looking for internship / full-time job opportunities**
 

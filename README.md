@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ziming+Liang;MS+student+%40+Northeastern;Software+Engineer;Full+Stack+Developer;Data+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ziming+Liang;MS+student+%40+Northeastern;Software+Engineer;Full+Stack+Developer;Data+Engineer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -62,12 +62,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ziming-Liang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziming-Liang&layout=compact&theme=tokyonight&hide_border=true)
-
 ## Featured Projects
 
 * **Stock Trading System** - Comprehensive Java trading system with RESTful APIs and design patterns
@@ -117,4 +111,3 @@ Sept 2021 - June 2025
 [![Email](https://img.shields.io/badge/-liang.zim@northeastern.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liang.zim@northeastern.edu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liang-zim/)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Ziming-Liang&color=blue&style=flat-square)

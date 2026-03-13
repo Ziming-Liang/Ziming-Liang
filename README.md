@@ -13,7 +13,7 @@
 ## About Me
 
 * 📍 I'm based in Boston, MA
-* 📧 You can contact me at **liang.zim@northeastern.edu**
+* 📧 You can contact me at **liangziming0729@gmail.com**
 * 🎓 I'm pursuing my Master's in Software Engineering Systems at Northeastern University
 * 💼 I have internship experience in data analytics at Apexus-Tech (NYC) and China Academy of Safety Science
 * 🎯 **Looking for internship / full-time job opportunities**
